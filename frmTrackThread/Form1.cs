@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace frmTrackThread
 {
-    public partial class Form1 : Form
+    public partial class frmTrackThread : Form
     {
-        public Form1()
+        public frmTrackThread()
         {
             InitializeComponent();
         }
