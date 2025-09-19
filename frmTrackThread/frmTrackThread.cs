@@ -18,7 +18,7 @@ namespace frmTrackThread
             InitializeComponent();
         }
 
-        private void btnRun_Click(object sender, EventArgs e)
+        private void btnRun_Click_1(object sender, EventArgs e)
         {
             Thread threadA = new Thread(MyThreadClass.Thread1);
             Thread threadB = new Thread(MyThreadClass.Thread2);
@@ -53,6 +53,7 @@ namespace frmTrackThread
         {
 
         }
+
     }
 }
 
