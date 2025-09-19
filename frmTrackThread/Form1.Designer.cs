@@ -38,7 +38,7 @@
             this.label1.AutoSize = true;
             this.label1.BackColor = System.Drawing.SystemColors.HighlightText;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 36F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(217, 95);
+            this.label1.Location = new System.Drawing.Point(217, 100);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(362, 55);
             this.label1.TabIndex = 0;
@@ -48,7 +48,7 @@
             // 
             this.btnRun.BackColor = System.Drawing.SystemColors.HighlightText;
             this.btnRun.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnRun.Location = new System.Drawing.Point(344, 294);
+            this.btnRun.Location = new System.Drawing.Point(343, 289);
             this.btnRun.Name = "btnRun";
             this.btnRun.Size = new System.Drawing.Size(94, 34);
             this.btnRun.TabIndex = 1;
@@ -59,7 +59,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackgroundImage = global::frmTrackThread.Properties.Resources._1234;
+            this.BackgroundImage = global::frmTrackThread.Properties.Resources._12;
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.btnRun);
             this.Controls.Add(this.label1);
